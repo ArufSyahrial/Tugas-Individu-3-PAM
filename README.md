@@ -1,2 +1,2 @@
-# Tugas_Individu_3_PAM
+# Tugas Individu 3 PAM
 Aplikasi pencarian jadwal pesawat
